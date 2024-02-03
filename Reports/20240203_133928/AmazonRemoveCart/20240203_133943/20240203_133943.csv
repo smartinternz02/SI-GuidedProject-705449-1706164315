@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+AmazonRemoveCart,Edge Chromium 121,,,03-02-2024 13:46:12,03-02-2024 13:47:15,1m - 3.031s,PASSED
+,,,,,,,
+Test Cases/Test5,Edge Chromium 121,,,03-02-2024 13:46:13,03-02-2024 13:47:15,1m - 2.663s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,03-02-2024 13:46:13,03-02-2024 13:46:19,5.756s,PASSED
+"click(findTestObject(""Object Repository/AmazonRemoveCart/Page_Amazon.com Page Not Found/img""))",Edge Chromium 121,,,03-02-2024 13:46:19,03-02-2024 13:46:22,2.881s,PASSED
+"setText(findTestObject(""Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords""), ""soap"")",Edge Chromium 121,,,03-02-2024 13:46:22,03-02-2024 13:46:23,1.362s,PASSED
+"click(findTestObject(""Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button""))",Edge Chromium 121,,,03-02-2024 13:46:23,03-02-2024 13:46:28,4.676s,PASSED
+"click(findTestObject(""Object Repository/AmazonRemoveCart/Page_Amazon.com  soap/img_Results_s-image""))",Edge Chromium 121,,,03-02-2024 13:46:28,03-02-2024 13:46:35,7.766s,PASSED
+"click(findTestObject(""Object Repository/AmazonRemoveCart/Page_Amazon.com  Dove Beauty Bar Cleanser f_be1d17/input_Shipping cost, delivery date, and ord_223673""))",Edge Chromium 121,,,03-02-2024 13:46:35,03-02-2024 13:46:40,4.708s,PASSED
+"click(findTestObject(""Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/a_Go to Cart""))",Edge Chromium 121,,,03-02-2024 13:46:40,03-02-2024 13:46:42,2.335s,PASSED
+"click(findTestObject(""Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a""))",Edge Chromium 121,,,03-02-2024 13:46:42,03-02-2024 13:47:14,31.691s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,03-02-2024 13:47:14,03-02-2024 13:47:15,1.233s,PASSED

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazoncart" time="43.603" tests="1" failures="0" errors="0">
+   <testsuite name="Amazoncart" tests="1" failures="0" errors="0" time="43.603" skipped="0" timestamp="03-02-2024T13:45:20" hostname="hp - 192.168.2.4" id="Test Suites/Amazoncart">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_133928\\Amazoncart\\20240203_133941"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_133928\\Amazoncart\\20240203_133941\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="9078dbfed083c0a9c411daa090e4d362"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test3" time="43.271" classname="Test Cases/Test3" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:45:20 - [TEST_CASE][PASSED] - Test Cases/Test3: Test Cases/Test3
+
+03-02-2024T13:45:20 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:45:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:45:21 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:45:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:45:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:45:25 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:45:27 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:45:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/Amazoncart/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:45:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:45:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:45:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:45:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazoncart/Page_Amazon Sign-In/input_Email or mobile phone number_email"), "vivek.koppu02@gmail.com"): Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:45:41 - [MESSAGE][PASSED] - Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:45:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:45:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:45:43 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazoncart/Page_Amazon Sign-In/input_Forgot your password_password"), "ofo5Cd7yjXKREItGPzFDsw=="): Text ****** has been set on object 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:45:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:45:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your password_signInSubmit")): Object: 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:45:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:45:45 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), "thermometer"): Text 'thermometer' is set on object 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:45:52 - [MESSAGE][PASSED] - Text 'thermometer' is set on object 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:45:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:46:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:46:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon.com  thermometer/button_Add to cart")): Object: 'Object Repository/Amazoncart/Page_Amazon.com  thermometer/button_Add to cart' is clicked on
+
+03-02-2024T13:46:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon.com  thermometer/button_Add to cart' is clicked on
+
+03-02-2024T13:46:03 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:46:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:46:04 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T13:45:20 - [TEST_SUITE][PASSED] - Amazoncart: Test Cases/Test3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

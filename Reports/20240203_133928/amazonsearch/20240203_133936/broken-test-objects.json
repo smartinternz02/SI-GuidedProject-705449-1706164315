@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14",
+      "brokenLocator": "//div[@id\u003d\u0027search\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240203_133928/amazonsearch/20240203_133936/Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14_position.png"
+    }
+  ]
+}

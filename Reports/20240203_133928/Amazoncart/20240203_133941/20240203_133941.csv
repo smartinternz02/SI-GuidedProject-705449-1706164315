@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazoncart,Edge Chromium 121,,,03-02-2024 13:45:20,03-02-2024 13:46:04,43.603s,PASSED
+,,,,,,,
+Test Cases/Test3,Edge Chromium 121,,,03-02-2024 13:45:20,03-02-2024 13:46:04,43.271s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,03-02-2024 13:45:20,03-02-2024 13:45:27,6.518s,PASSED
+"click(findTestObject(""Object Repository/Amazoncart/Page_Amazon.com Page Not Found/img""))",Edge Chromium 121,,,03-02-2024 13:45:27,03-02-2024 13:45:34,7.136s,PASSED
+"click(findTestObject(""Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Edge Chromium 121,,,03-02-2024 13:45:34,03-02-2024 13:45:39,4.484s,PASSED
+"setText(findTestObject(""Object Repository/Amazoncart/Page_Amazon Sign-In/input_Email or mobile phone number_email""), ""vivek.koppu02@gmail.com"")",Edge Chromium 121,,,03-02-2024 13:45:39,03-02-2024 13:45:41,1.928s,PASSED
+"click(findTestObject(""Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402""))",Edge Chromium 121,,,03-02-2024 13:45:41,03-02-2024 13:45:43,2.445s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazoncart/Page_Amazon Sign-In/input_Forgot your password_password""), ""ofo5Cd7yjXKREItGPzFDsw=="")",Edge Chromium 121,,,03-02-2024 13:45:43,03-02-2024 13:45:45,1.646s,PASSED
+"click(findTestObject(""Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your password_signInSubmit""))",Edge Chromium 121,,,03-02-2024 13:45:45,03-02-2024 13:45:45,0.571s,PASSED
+"setText(findTestObject(""Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords""), ""thermometer"")",Edge Chromium 121,,,03-02-2024 13:45:45,03-02-2024 13:45:52,6.608s,PASSED
+"click(findTestObject(""Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button""))",Edge Chromium 121,,,03-02-2024 13:45:52,03-02-2024 13:46:00,8.070s,PASSED
+"click(findTestObject(""Object Repository/Amazoncart/Page_Amazon.com  thermometer/button_Add to cart""))",Edge Chromium 121,,,03-02-2024 13:46:00,03-02-2024 13:46:03,2.988s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,03-02-2024 13:46:03,03-02-2024 13:46:04,0.585s,PASSED
