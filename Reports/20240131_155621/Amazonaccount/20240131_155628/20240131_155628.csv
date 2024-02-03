@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazonaccount,Edge Chromium 121,,,31-01-2024 15:58:04,31-01-2024 15:59:29,1m - 25.001s,PASSED
+,,,,,,,
+Test Cases/Test4,Edge Chromium 121,,,31-01-2024 15:58:50,31-01-2024 15:59:29,38.365s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,31-01-2024 15:58:50,31-01-2024 15:58:53,2.825s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Amazon.com Page Not Found/img""))",Edge Chromium 121,,,31-01-2024 15:58:53,31-01-2024 15:58:56,3.123s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Edge Chromium 121,,,31-01-2024 15:58:56,31-01-2024 15:59:00,3.680s,PASSED
+"setText(findTestObject(""Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Email or mobile phone number_email""), ""vivek.koppu02@gmail.com"")",Edge Chromium 121,,,31-01-2024 15:59:00,31-01-2024 15:59:01,1.419s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402""))",Edge Chromium 121,,,31-01-2024 15:59:01,31-01-2024 15:59:04,2.271s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Forgot your password_password""), ""ofo5Cd7yjXKREItGPzFDsw=="")",Edge Chromium 121,,,31-01-2024 15:59:04,31-01-2024 15:59:05,1.125s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your password_signInSubmit""))",Edge Chromium 121,,,31-01-2024 15:59:05,31-01-2024 15:59:05,0.593s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, Koppu""))",Edge Chromium 121,,,31-01-2024 15:59:05,31-01-2024 15:59:13,7.401s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Your Account/div_Your Orders                            _3ec75f""))",Edge Chromium 121,,,31-01-2024 15:59:13,31-01-2024 15:59:18,4.917s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Your Orders/a_Your Account""))",Edge Chromium 121,,,31-01-2024 15:59:18,31-01-2024 15:59:21,3.074s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Your Account/div_Your Addresses                         _6e2e83""))",Edge Chromium 121,,,31-01-2024 15:59:21,31-01-2024 15:59:23,2.367s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Your Addresses/span_EN""))",Edge Chromium 121,,,31-01-2024 15:59:23,31-01-2024 15:59:26,2.671s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Change Language  Currency Settings/div_(function(f) var _np(window.P._namespac_5a8a07""))",Edge Chromium 121,,,31-01-2024 15:59:26,31-01-2024 15:59:28,2.155s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,31-01-2024 15:59:28,31-01-2024 15:59:29,0.657s,PASSED

@@ -1,0 +1,34 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+amazonsearch,Edge Chromium 121,,,30-01-2024 20:56:47,30-01-2024 21:00:40,3m - 53.360s,PASSED
+,,,,,,,
+Test Cases/Test2,Edge Chromium 121,,,30-01-2024 20:56:48,30-01-2024 20:57:22,34.493s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,30-01-2024 20:56:48,30-01-2024 20:56:55,6.941s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img""))",Edge Chromium 121,,,30-01-2024 20:56:55,30-01-2024 20:56:59,3.712s,PASSED
+"setText(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords""), search)",Edge Chromium 121,,,30-01-2024 20:56:59,30-01-2024 20:57:02,3.483s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button""))",Edge Chromium 121,,,30-01-2024 20:57:02,30-01-2024 20:57:11,8.734s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14""))",Edge Chromium 121,,,30-01-2024 20:57:11,30-01-2024 20:57:21,10.222s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,30-01-2024 20:57:21,30-01-2024 20:57:22,0.972s,PASSED
+,,,,,,,
+Test Cases/Test2,Edge Chromium 121,,,30-01-2024 20:57:22,30-01-2024 20:57:49,27.127s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,30-01-2024 20:57:22,30-01-2024 20:57:26,4.204s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img""))",Edge Chromium 121,,,30-01-2024 20:57:26,30-01-2024 20:57:31,4.305s,PASSED
+"setText(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords""), search)",Edge Chromium 121,,,30-01-2024 20:57:31,30-01-2024 20:57:34,3.620s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button""))",Edge Chromium 121,,,30-01-2024 20:57:34,30-01-2024 20:57:42,8.170s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14""))",Edge Chromium 121,,,30-01-2024 20:57:42,30-01-2024 20:57:48,5.964s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,30-01-2024 20:57:48,30-01-2024 20:57:49,0.804s,PASSED
+,,,,,,,
+Test Cases/Test2,Edge Chromium 121,,,30-01-2024 20:58:32,30-01-2024 20:59:03,31.260s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,30-01-2024 20:58:32,30-01-2024 20:58:37,4.802s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img""))",Edge Chromium 121,,,30-01-2024 20:58:37,30-01-2024 20:58:41,4.118s,PASSED
+"setText(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords""), search)",Edge Chromium 121,,,30-01-2024 20:58:41,30-01-2024 20:58:44,3.079s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button""))",Edge Chromium 121,,,30-01-2024 20:58:44,30-01-2024 20:58:53,8.720s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14""))",Edge Chromium 121,,,30-01-2024 20:58:53,30-01-2024 20:59:03,9.851s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,30-01-2024 20:59:03,30-01-2024 20:59:03,0.638s,PASSED
+,,,,,,,
+Test Cases/Test2,Edge Chromium 121,,,30-01-2024 20:59:47,30-01-2024 21:00:40,53.448s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,30-01-2024 20:59:47,30-01-2024 20:59:52,5.056s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img""))",Edge Chromium 121,,,30-01-2024 20:59:52,30-01-2024 20:59:55,3.356s,PASSED
+"setText(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords""), search)",Edge Chromium 121,,,30-01-2024 20:59:55,30-01-2024 20:59:58,2.567s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button""))",Edge Chromium 121,,,30-01-2024 20:59:58,30-01-2024 21:00:03,4.872s,PASSED
+"click(findTestObject(""Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14""))",Edge Chromium 121,,,30-01-2024 21:00:03,30-01-2024 21:00:40,36.760s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,30-01-2024 21:00:40,30-01-2024 21:00:40,0.792s,PASSED

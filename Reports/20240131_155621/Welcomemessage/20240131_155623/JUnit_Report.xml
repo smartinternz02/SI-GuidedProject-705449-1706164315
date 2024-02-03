@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Welcomemessage" time="7.062" tests="1" failures="0" errors="0">
+   <testsuite name="Welcomemessage" tests="1" failures="0" errors="0" time="7.062" skipped="0" timestamp="31-01-2024T15:56:52" hostname="hp - 192.168.2.4" id="Test Suites/Welcomemessage">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240131_155621\\Welcomemessage\\20240131_155623"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240131_155621\\Welcomemessage\\20240131_155623\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="0f94cc509993fff679e6e131de6e7286"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test6" time="6.418" classname="Test Cases/Test6" status="PASSED">
+         <system-out><![CDATA[31-01-2024T15:56:53 - [TEST_CASE][PASSED] - Test Cases/Test6: Test Cases/Test6
+
+31-01-2024T15:56:53 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+31-01-2024T15:56:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+31-01-2024T15:56:54 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+31-01-2024T15:56:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-01-2024T15:56:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+31-01-2024T15:56:58 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+31-01-2024T15:56:58 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+31-01-2024T15:56:59 - [TEST_STEP][PASSED] - com.test.demo.Demo.print(): com.test.demo.Demo.print is PASSED
+
+31-01-2024T15:56:59 - [MESSAGE][PASSED] - com.test.demo.Demo.print is PASSED
+
+31-01-2024T15:56:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+31-01-2024T15:56:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+31-01-2024T15:56:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[31-01-2024T15:56:52 - [TEST_SUITE][PASSED] - Welcomemessage: Test Cases/Test6]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

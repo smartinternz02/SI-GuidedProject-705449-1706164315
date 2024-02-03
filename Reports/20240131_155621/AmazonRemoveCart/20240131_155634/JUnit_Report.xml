@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="AmazonRemoveCart" time="129.629" tests="1" failures="0" errors="0">
+   <testsuite name="AmazonRemoveCart" tests="1" failures="0" errors="0" time="129.629" skipped="0" timestamp="31-01-2024T16:00:12" hostname="hp - 192.168.2.4" id="Test Suites/AmazonRemoveCart">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240131_155621\\AmazonRemoveCart\\20240131_155634"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240131_155621\\AmazonRemoveCart\\20240131_155634\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240131_155621\\AmazonRemoveCart\\20240131_155634\\1706697058247.png"/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="556a10c9cdce3c21ef72d1b15fc2cd58"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test5" time="81.106" classname="Test Cases/Test5" status="PASSED">
+         <system-out><![CDATA[31-01-2024T16:01:00 - [TEST_CASE][PASSED] - Test Cases/Test5: Test Cases/Test5
+
+31-01-2024T16:01:00 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+31-01-2024T16:01:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+31-01-2024T16:01:00 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+31-01-2024T16:01:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-01-2024T16:01:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+31-01-2024T16:01:03 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+31-01-2024T16:01:04 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+31-01-2024T16:01:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Page Not Found/img' is clicked on
+
+31-01-2024T16:01:10 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Page Not Found/img' is clicked on
+
+31-01-2024T16:01:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), "soap"): Text 'soap' is set on object 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+31-01-2024T16:01:13 - [MESSAGE][PASSED] - Text 'soap' is set on object 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+31-01-2024T16:01:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+31-01-2024T16:01:23 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+31-01-2024T16:01:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com  soap/img_Results_s-image")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com  soap/img_Results_s-image' is clicked on
+
+31-01-2024T16:01:36 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com  soap/img_Results_s-image' is clicked on
+
+31-01-2024T16:01:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com  Dove Beauty Bar Cleanser f_be1d17/input_Shipping cost, delivery date, and ord_223673")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com  Dove Beauty Bar Cleanser f_be1d17/input_Shipping cost, delivery date, and ord_223673' is clicked on
+
+31-01-2024T16:01:42 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com  Dove Beauty Bar Cleanser f_be1d17/input_Shipping cost, delivery date, and ord_223673' is clicked on
+
+31-01-2024T16:01:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/a_Go to Cart")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/a_Go to Cart' is clicked on
+
+31-01-2024T16:01:45 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/a_Go to Cart' is clicked on
+
+31-01-2024T16:01:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a' is clicked on
+
+31-01-2024T16:02:18 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@name='submit.delete.f61e73c0-ffc0-41dc-804f-654ee936d404']'. Please recheck the objects properties to make sure the desired element is located. 
+
+31-01-2024T16:02:18 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a'. Try using Self-healing.
+
+31-01-2024T16:02:20 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a' was broken. Propose an alternative one: '//span[2]/span/input'.
+
+31-01-2024T16:02:20 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a' is clicked on
+
+31-01-2024T16:02:20 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+31-01-2024T16:02:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+31-01-2024T16:02:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[31-01-2024T16:00:12 - [TEST_SUITE][FAILED] - AmazonRemoveCart: Test Cases/Test5 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'soap' of object 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1019)
+	at Test5.run(Test5:22)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706696794056.run(TempTestSuite1706696794056.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords' located by '//input[@id='twotabsearchtextbox']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[31-01-2024T16:00:12 - [TEST_SUITE][FAILED] - AmazonRemoveCart: Test Cases/Test5 FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to set text 'soap' of object 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:1019)
+	at Test5.run(Test5:22)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:148)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1706696794056.run(TempTestSuite1706696794056.groovy:36)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords' located by '//input[@id='twotabsearchtextbox']' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1379)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:51)
+	at com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

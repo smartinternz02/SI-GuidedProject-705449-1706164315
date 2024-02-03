@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "BD754C152E154E3CF2F417F02A668071",
+  "keywordClasses": [
+    {
+      "name": "com.test.demo.Demo",
+      "keywordMethods": [
+        {
+          "name": "print",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
