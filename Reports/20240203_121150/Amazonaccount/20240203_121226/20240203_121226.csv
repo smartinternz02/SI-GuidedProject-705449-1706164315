@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazonaccount,Edge Chromium 121,,,03-02-2024 12:14:26,03-02-2024 12:15:13,46.093s,FAILED
+,,,,,,,
+Test Cases/Test4,Edge Chromium 121,,,03-02-2024 12:14:27,03-02-2024 12:15:13,45.639s,FAILED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,03-02-2024 12:14:27,03-02-2024 12:14:32,4.977s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Amazon.com Page Not Found/img""))",Edge Chromium 121,,,03-02-2024 12:14:32,03-02-2024 12:14:34,1.901s,PASSED
+"click(findTestObject(""Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Edge Chromium 121,,,03-02-2024 12:14:34,03-02-2024 12:15:12,37.653s,FAILED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,03-02-2024 12:15:12,03-02-2024 12:15:13,0.735s,PASSED
