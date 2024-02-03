@@ -1,1 +1,1 @@
-# Software Automation Testing Amazon Project
+# Software Testing Automation Amazon Project
