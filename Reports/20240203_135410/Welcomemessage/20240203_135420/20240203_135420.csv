@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Welcomemessage,Edge Chromium 121,,,03-02-2024 13:55:03,03-02-2024 13:55:08,5.110s,PASSED
+,,,,,,,
+Test Cases/Test6,Edge Chromium 121,,,03-02-2024 13:55:03,03-02-2024 13:55:08,4.930s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,03-02-2024 13:55:03,03-02-2024 13:55:08,4.270s,PASSED
+com.test.demo.Demo.print(),Edge Chromium 121,,,03-02-2024 13:55:08,03-02-2024 13:55:08,0.093s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,03-02-2024 13:55:08,03-02-2024 13:55:08,0.379s,PASSED

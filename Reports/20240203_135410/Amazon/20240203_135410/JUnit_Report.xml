@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon" time="281.293" tests="9" failures="0" errors="0">
+   <testsuite name="Welcomemessage" tests="1" failures="0" errors="0" time="5.11" skipped="0" timestamp="03-02-2024T13:55:03" hostname="hp - 192.168.2.4" id="Test Suites/Welcomemessage">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\Welcomemessage\\20240203_135420"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\Welcomemessage\\20240203_135420\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="bf74318afce88d919a2e96891145f673"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test6" time="4.93" classname="Test Cases/Test6" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:55:03 - [TEST_CASE][PASSED] - Test Cases/Test6: Test Cases/Test6
+
+03-02-2024T13:55:03 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:55:04 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:55:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:55:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:55:07 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:08 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:08 - [TEST_STEP][PASSED] - com.test.demo.Demo.print(): com.test.demo.Demo.print is PASSED
+
+03-02-2024T13:55:08 - [MESSAGE][PASSED] - com.test.demo.Demo.print is PASSED
+
+03-02-2024T13:55:08 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:55:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:55:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T13:55:03 - [TEST_SUITE][PASSED] - Welcomemessage: Test Cases/Test6]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="AmazonLogin" tests="1" failures="0" errors="0" time="15.659" skipped="0" timestamp="03-02-2024T13:55:13" hostname="hp - 192.168.2.4" id="Test Suites/AmazonLogin">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\AmazonLogin\\20240203_135428"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\AmazonLogin\\20240203_135428\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="87b849ba02407ba190e0c626083c384a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test1" time="15.448" classname="Test Cases/Test1" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:55:13 - [TEST_CASE][PASSED] - Test Cases/Test1: Test Cases/Test1
+
+03-02-2024T13:55:13 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:55:14 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:55:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:55:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:55:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:16 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonLogin/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/AmazonLogin/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:55:19 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonLogin/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:55:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonLogin/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/AmazonLogin/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:55:22 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonLogin/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:55:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Email or mobile phone number_email"), "vivek.koppu02@gmail.com"): Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:55:23 - [MESSAGE][PASSED] - Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:55:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:55:26 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:55:26 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Forgot your password_password"), "ofo5Cd7yjXKREItGPzFDsw=="): Text ****** has been set on object 'Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:55:28 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:55:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Enter your password_signInSubmit")): Object: 'Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:55:28 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonLogin/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:55:28 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:55:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:55:29 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T13:55:13 - [TEST_SUITE][PASSED] - AmazonLogin: Test Cases/Test1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="amazonsearch" tests="4" failures="0" errors="0" time="108.823" skipped="0" timestamp="03-02-2024T13:55:33" hostname="hp - 192.168.2.4" id="Test Suites/amazonsearch">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\amazonsearch\\20240203_135437"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\amazonsearch\\20240203_135437\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="b8d676fe1cc49ff040b5609246a60aff"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test2" time="24.522" classname="Test Cases/Test2" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:55:33 - [TEST_CASE][PASSED] - Test Cases/Test2: Test Cases/Test2
+
+03-02-2024T13:55:33 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:55:34 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:55:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:55:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:55:36 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:36 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:55:39 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:55:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), search): Text 'mobile' is set on object 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:55:40 - [MESSAGE][PASSED] - Text 'mobile' is set on object 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:55:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:55:47 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:55:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14")): Object: 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' is clicked on
+
+03-02-2024T13:55:57 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' is clicked on
+
+03-02-2024T13:55:57 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:55:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:55:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test2" time="16.849" classname="Test Cases/Test2" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:55:58 - [TEST_CASE][PASSED] - Test Cases/Test2: Test Cases/Test2
+
+03-02-2024T13:55:58 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:55:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:55:58 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:55:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:55:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:55:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:56:00 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:56:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:56:03 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:56:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), search): Text 'atta' is set on object 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:56:04 - [MESSAGE][PASSED] - Text 'atta' is set on object 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:56:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:56:11 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:56:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14")): Object: 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' is clicked on
+
+03-02-2024T13:56:14 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' is clicked on
+
+03-02-2024T13:56:14 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:56:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:56:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test2" time="20.116" classname="Test Cases/Test2" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:56:15 - [TEST_CASE][PASSED] - Test Cases/Test2: Test Cases/Test2
+
+03-02-2024T13:56:15 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:56:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:56:15 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:56:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:56:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:56:16 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:56:17 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:56:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:56:20 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:56:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), search): Text 'thermometer' is set on object 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:56:21 - [MESSAGE][PASSED] - Text 'thermometer' is set on object 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:56:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:56:27 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:56:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14")): Object: 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' is clicked on
+
+03-02-2024T13:56:34 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' is clicked on
+
+03-02-2024T13:56:34 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:56:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:56:35 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test2" time="47.07" classname="Test Cases/Test2" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:56:35 - [TEST_CASE][PASSED] - Test Cases/Test2: Test Cases/Test2
+
+03-02-2024T13:56:35 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:56:35 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:56:35 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:56:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:56:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:56:36 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:56:37 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:56:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:56:41 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:56:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), search): Text 'book' is set on object 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:56:44 - [MESSAGE][PASSED] - Text 'book' is set on object 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:56:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:56:48 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:56:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14")): Object: 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' is clicked on
+
+03-02-2024T13:57:20 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='search']/div'. Please recheck the objects properties to make sure the desired element is located. 
+
+03-02-2024T13:57:20 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14'. Try using Self-healing.
+
+03-02-2024T13:57:20 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' was broken. Propose an alternative one: '//div/div/div'.
+
+03-02-2024T13:57:22 - [MESSAGE][PASSED] - Object: 'Object Repository/amazonsearch/Page_Amazon.com  thermometer/div_ResultsCheck each product page for othe_437b14' is clicked on
+
+03-02-2024T13:57:22 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:57:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:57:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T13:55:33 - [TEST_SUITE][PASSED] - amazonsearch: Test Cases/Test2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Amazonaccount" tests="1" failures="0" errors="0" time="32.913" skipped="0" timestamp="03-02-2024T13:57:27" hostname="hp - 192.168.2.4" id="Test Suites/Amazonaccount">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\Amazonaccount\\20240203_135444"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\Amazonaccount\\20240203_135444\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="abc5e98b91168ff00626f870c801f31d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test4" time="32.724" classname="Test Cases/Test4" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:57:27 - [TEST_CASE][PASSED] - Test Cases/Test4: Test Cases/Test4
+
+03-02-2024T13:57:27 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:57:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:57:27 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:57:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:57:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:57:29 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:57:30 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:57:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/Amazonaccount/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:57:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:57:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:57:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:57:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Email or mobile phone number_email"), "vivek.koppu02@gmail.com"): Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:57:38 - [MESSAGE][PASSED] - Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:57:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:57:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:57:40 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Forgot your password_password"), "ofo5Cd7yjXKREItGPzFDsw=="): Text ****** has been set on object 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:57:41 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:57:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your password_signInSubmit")): Object: 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:57:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:57:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, Koppu")): Object: 'Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, Koppu' is clicked on
+
+03-02-2024T13:57:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, Koppu' is clicked on
+
+03-02-2024T13:57:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Your Account/div_Your Orders                            _3ec75f")): Object: 'Object Repository/Amazonaccount/Page_Your Account/div_Your Orders                            _3ec75f' is clicked on
+
+03-02-2024T13:57:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Your Account/div_Your Orders                            _3ec75f' is clicked on
+
+03-02-2024T13:57:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Your Orders/a_Your Account")): Object: 'Object Repository/Amazonaccount/Page_Your Orders/a_Your Account' is clicked on
+
+03-02-2024T13:57:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Your Orders/a_Your Account' is clicked on
+
+03-02-2024T13:57:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Your Account/div_Your Addresses                         _6e2e83")): Object: 'Object Repository/Amazonaccount/Page_Your Account/div_Your Addresses                         _6e2e83' is clicked on
+
+03-02-2024T13:57:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Your Account/div_Your Addresses                         _6e2e83' is clicked on
+
+03-02-2024T13:57:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Your Addresses/span_EN")): Object: 'Object Repository/Amazonaccount/Page_Your Addresses/span_EN' is clicked on
+
+03-02-2024T13:57:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Your Addresses/span_EN' is clicked on
+
+03-02-2024T13:57:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Change Language  Currency Settings/div_(function(f) var _np(window.P._namespac_5a8a07")): Object: 'Object Repository/Amazonaccount/Page_Change Language  Currency Settings/div_(function(f) var _np(window.P._namespac_5a8a07' is clicked on
+
+03-02-2024T13:57:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Change Language  Currency Settings/div_(function(f) var _np(window.P._namespac_5a8a07' is clicked on
+
+03-02-2024T13:57:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:57:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:58:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T13:57:27 - [TEST_SUITE][PASSED] - Amazonaccount: Test Cases/Test4]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Amazoncart" tests="1" failures="0" errors="0" time="28.223" skipped="0" timestamp="03-02-2024T13:58:04" hostname="hp - 192.168.2.4" id="Test Suites/Amazoncart">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\Amazoncart\\20240203_135450"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\Amazoncart\\20240203_135450\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="f33482aa90fa6c9ef9b84895e03186ec"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test3" time="28.027" classname="Test Cases/Test3" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:58:04 - [TEST_CASE][PASSED] - Test Cases/Test3: Test Cases/Test3
+
+03-02-2024T13:58:05 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:58:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:58:05 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:58:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:58:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:58:07 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:58:08 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:58:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/Amazoncart/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:58:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:58:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:58:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:58:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazoncart/Page_Amazon Sign-In/input_Email or mobile phone number_email"), "vivek.koppu02@gmail.com"): Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:58:14 - [MESSAGE][PASSED] - Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:58:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:58:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:58:17 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazoncart/Page_Amazon Sign-In/input_Forgot your password_password"), "ofo5Cd7yjXKREItGPzFDsw=="): Text ****** has been set on object 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:58:18 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:58:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your password_signInSubmit")): Object: 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:58:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:58:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), "thermometer"): Text 'thermometer' is set on object 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:58:24 - [MESSAGE][PASSED] - Text 'thermometer' is set on object 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:58:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:58:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:58:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazoncart/Page_Amazon.com  thermometer/button_Add to cart")): Object: 'Object Repository/Amazoncart/Page_Amazon.com  thermometer/button_Add to cart' is clicked on
+
+03-02-2024T13:58:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazoncart/Page_Amazon.com  thermometer/button_Add to cart' is clicked on
+
+03-02-2024T13:58:32 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:58:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:58:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T13:58:04 - [TEST_SUITE][PASSED] - Amazoncart: Test Cases/Test3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="AmazonRemoveCart" tests="1" failures="0" errors="0" time="62.936" skipped="0" timestamp="03-02-2024T13:58:37" hostname="hp - 192.168.2.4" id="Test Suites/AmazonRemoveCart">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\AmazonRemoveCart\\20240203_135457"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\AmazonRemoveCart\\20240203_135457\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="66972d637d4b1cc7e84e26fd3af63e79"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test5" time="62.756" classname="Test Cases/Test5" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:58:37 - [TEST_CASE][PASSED] - Test Cases/Test5: Test Cases/Test5
+
+03-02-2024T13:58:37 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:58:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:58:37 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:58:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:58:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:58:39 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:58:40 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:58:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:58:42 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:58:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords"), "soap"): Text 'soap' is set on object 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:58:44 - [MESSAGE][PASSED] - Text 'soap' is set on object 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_field-keywords'
+
+03-02-2024T13:58:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:58:50 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com. Spend less. Smile more/input_Search Amazon_nav-search-submit-button' is clicked on
+
+03-02-2024T13:58:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com  soap/img_Results_s-image")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com  soap/img_Results_s-image' is clicked on
+
+03-02-2024T13:58:57 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com  soap/img_Results_s-image' is clicked on
+
+03-02-2024T13:58:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com  Dove Beauty Bar Cleanser f_be1d17/input_Shipping cost, delivery date, and ord_223673")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com  Dove Beauty Bar Cleanser f_be1d17/input_Shipping cost, delivery date, and ord_223673' is clicked on
+
+03-02-2024T13:59:04 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com  Dove Beauty Bar Cleanser f_be1d17/input_Shipping cost, delivery date, and ord_223673' is clicked on
+
+03-02-2024T13:59:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/a_Go to Cart")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/a_Go to Cart' is clicked on
+
+03-02-2024T13:59:07 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/a_Go to Cart' is clicked on
+
+03-02-2024T13:59:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a")): Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a' is clicked on
+
+03-02-2024T13:59:38 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //input[@name='submit.delete.f61e73c0-ffc0-41dc-804f-654ee936d404']'. Please recheck the objects properties to make sure the desired element is located. 
+
+03-02-2024T13:59:38 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a'. Try using Self-healing.
+
+03-02-2024T13:59:38 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a' was broken. Propose an alternative one: '//span[2]/span/input'.
+
+03-02-2024T13:59:39 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonRemoveCart/Page_Amazon.com Shopping Cart/input_Update_submit.delete.f61e73c0-ffc0-41_fc858a' is clicked on
+
+03-02-2024T13:59:39 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:59:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:59:40 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T13:58:37 - [TEST_SUITE][PASSED] - AmazonRemoveCart: Test Cases/Test5]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

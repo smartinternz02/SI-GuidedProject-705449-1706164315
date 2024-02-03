@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazonaccount" time="32.913" tests="1" failures="0" errors="0">
+   <testsuite name="Amazonaccount" tests="1" failures="0" errors="0" time="32.913" skipped="0" timestamp="03-02-2024T13:57:27" hostname="hp - 192.168.2.4" id="Test Suites/Amazonaccount">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\Amazonaccount\\20240203_135444"/>
+         <property name="logFiles" value="C:\\Users\\hp\\git\\SI-GuidedProject-705449-1706164315\\Reports\\20240203_135410\\Amazonaccount\\20240203_135444\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hp - 192.168.2.4"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Edge Chromium 121"/>
+         <property name="hostAddress" value="192.168.2.4"/>
+         <property name="sessionId" value="abc5e98b91168ff00626f870c801f31d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Test4" time="32.724" classname="Test Cases/Test4" status="PASSED">
+         <system-out><![CDATA[03-02-2024T13:57:27 - [TEST_CASE][PASSED] - Test Cases/Test4: Test Cases/Test4
+
+03-02-2024T13:57:27 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:57:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T13:57:27 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+03-02-2024T13:57:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T13:57:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T13:57:29 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/delay/"): Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:57:30 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/delay/' successfully
+
+03-02-2024T13:57:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon.com Page Not Found/img")): Object: 'Object Repository/Amazonaccount/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:57:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon.com Page Not Found/img' is clicked on
+
+03-02-2024T13:57:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in")): Object: 'Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:57:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in' is clicked on
+
+03-02-2024T13:57:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Email or mobile phone number_email"), "vivek.koppu02@gmail.com"): Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:57:38 - [MESSAGE][PASSED] - Text 'vivek.koppu02@gmail.com' is set on object 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Email or mobile phone number_email'
+
+03-02-2024T13:57:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402")): Object: 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:57:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your email or mobile phone numb_fc7402' is clicked on
+
+03-02-2024T13:57:40 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Forgot your password_password"), "ofo5Cd7yjXKREItGPzFDsw=="): Text ****** has been set on object 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:57:41 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Forgot your password_password'
+
+03-02-2024T13:57:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your password_signInSubmit")): Object: 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:57:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon Sign-In/input_Enter your password_signInSubmit' is clicked on
+
+03-02-2024T13:57:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, Koppu")): Object: 'Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, Koppu' is clicked on
+
+03-02-2024T13:57:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Amazon.com. Spend less. Smile more/span_Hello, Koppu' is clicked on
+
+03-02-2024T13:57:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Your Account/div_Your Orders                            _3ec75f")): Object: 'Object Repository/Amazonaccount/Page_Your Account/div_Your Orders                            _3ec75f' is clicked on
+
+03-02-2024T13:57:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Your Account/div_Your Orders                            _3ec75f' is clicked on
+
+03-02-2024T13:57:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Your Orders/a_Your Account")): Object: 'Object Repository/Amazonaccount/Page_Your Orders/a_Your Account' is clicked on
+
+03-02-2024T13:57:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Your Orders/a_Your Account' is clicked on
+
+03-02-2024T13:57:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Your Account/div_Your Addresses                         _6e2e83")): Object: 'Object Repository/Amazonaccount/Page_Your Account/div_Your Addresses                         _6e2e83' is clicked on
+
+03-02-2024T13:57:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Your Account/div_Your Addresses                         _6e2e83' is clicked on
+
+03-02-2024T13:57:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Your Addresses/span_EN")): Object: 'Object Repository/Amazonaccount/Page_Your Addresses/span_EN' is clicked on
+
+03-02-2024T13:57:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Your Addresses/span_EN' is clicked on
+
+03-02-2024T13:57:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Amazonaccount/Page_Change Language  Currency Settings/div_(function(f) var _np(window.P._namespac_5a8a07")): Object: 'Object Repository/Amazonaccount/Page_Change Language  Currency Settings/div_(function(f) var _np(window.P._namespac_5a8a07' is clicked on
+
+03-02-2024T13:57:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Amazonaccount/Page_Change Language  Currency Settings/div_(function(f) var _np(window.P._namespac_5a8a07' is clicked on
+
+03-02-2024T13:57:59 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-02-2024T13:57:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T13:58:00 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T13:57:27 - [TEST_SUITE][PASSED] - Amazonaccount: Test Cases/Test4]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
